@@ -1,0 +1,5 @@
+project: rnshah9/dateutils
+target: dateutils
+
+cmds:
+  - cmd: /repo/src/dsort 
