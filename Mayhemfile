@@ -1,4 +1,4 @@
-project: rnshah9/dateutils
+project: dateutils
 target: dsort
 
 cmds:
