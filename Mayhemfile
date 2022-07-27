@@ -2,4 +2,4 @@ project: dateutils
 target: dsort
 
 cmds:
-  - cmd: /repo/src/dsort 
+  - cmd: /install/bin/dsort 
